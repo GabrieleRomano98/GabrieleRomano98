@@ -2,7 +2,9 @@
 
 I'm a full-stack developer for web and mobile applications
 
-Here I list some examples of applications I developed for myself or for university projects:
+In my persona repository you can find my complete curriculum
+
+Here is list some examples of applications I developed for myself or for university projects:
 
 * **HouseOfTournaments** is a soccer tournament manager. It is developed with React and deployed on a Heroku server.
 * **Virgilianotime** is a web application that access the user camera and coordinates two devices to implement an high precision chronometer. (I'm currently developing a mobile app for this project)
