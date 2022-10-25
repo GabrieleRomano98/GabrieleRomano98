@@ -2,7 +2,7 @@
 
 I'm a full-stack developer for web and mobile applications
 
-In my persona repository you can find my complete curriculum
+In my personal repository you can find my complete curriculum
 
 Here is list some examples of applications I developed for myself or for university projects:
 
